@@ -1,17 +1,12 @@
 # Pre-work - MyBlog
 
-> HINT: Please
-> - include this README.md in your project and fill out the information. 
-> - remove the `README.rdoc` file that Rails generates. 
-> - remove all the HINT blocks in this file.
-
 MyBlog is a Ruby on Rails blog application.
 
 Submitted by: Nhung Huynh
 
 Time spent: 3 hours spent in total
 
-URL: **Insert your Heroku URL here**
+URL: https://powerful-bayou-35940.herokuapp.com/articles
 
 ## User Stories
 
@@ -40,11 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-> HINT: You can put a `walkthrough.gif` file in your project folder, add to git, and use the following syntax to embed it:  
-> `![Video Walkthrough](walkthrough.gif)` 
-> 
-
-![Video Walkthrough](/path/to/your/gif/file)
+![Video Walkthrough](walkthrough.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
